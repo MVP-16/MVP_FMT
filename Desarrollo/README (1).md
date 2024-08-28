@@ -3,3 +3,4 @@
 
 <!-- Aquí se inserta la imagen -->
 <img src="Read/file:///C:/Users/agabr/Desktop/Read/img1.jpeg"> style="max-width:100%; height:auto;"> </img>
+![Uploading img1.jpeg…]()
