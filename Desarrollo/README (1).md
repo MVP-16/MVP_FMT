@@ -1,6 +1,3 @@
 <h1>Desarrollo</h1>
 <p>Se planificó el modelo, es decir, el chasis, ya que era necesario agregarle un eje de giro lo más funcional posible dado que contamos con una medida límite para él. La estructura es la siguiente:</p>
-
-<!-- Aquí se inserta la imagen -->
-<img src="Read/file:///C:/Users/agabr/Desktop/Read/img1.jpeg"> style="max-width:100%; height:auto;"> </img>
-![Uploading img1.jpeg…]()
+![img1](https://github.com/user-attachments/assets/e9d1078a-789a-40cc-b1e7-59a6ae71af02)
