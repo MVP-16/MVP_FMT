@@ -1,4 +1,4 @@
-# MVP_FTR
+# MVP_FTR Competencia Nacional 2024
 <h1>Introducción</h1>
 Nuestro prototipo es un carro autónomo que por medio de un lenguaje de programación (CSS) en Arduino Uno  que se programa 
 <h1>Descripción</h1>
