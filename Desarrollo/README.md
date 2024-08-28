@@ -3,4 +3,4 @@ Se planifico el modelo  es decir el chasis ya que era necesario agregarle un eje
 
 
 
-Luego teníamos que pensar un tipo de mecanismo de dirección para la parte delantera, esta funciona por medio de un servomotor en la siguiente imagen se muestra su estructura.
+<p>Luego teníamos que pensar un tipo de mecanismo de dirección para la parte delantera, esta funciona por medio de un servomotor en la siguiente imagen se muestra su estructura.</p>
