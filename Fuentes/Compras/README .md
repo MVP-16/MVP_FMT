@@ -5,7 +5,7 @@
 <h3>Sensor shield V2.0 para MEGA </h3>https://laelectronica.com.gt/sensor-shield-v20-para-mega?srsltid=AfmBOoqMXu8WWeBAs1XZ9GmJYMOOmb2rS1754EXPPM84D_wMu9bYd8qH
 <h3>Broche para batería de 9V con plug DC</h3>https://laelectronica.com.gt/conector-para-bateria-de-9v-con-plug-dc
 <h3>Sensor de color TCS230 TCS3200, con lente perimetral</h3>https://laelectronica.com.gt/sensor-de-color-tcs230-tcs3200-con-lente-perimetral?srsltid=AfmBOoppEpZNGzDNG20yP9QDE6hEj1J98m_0TtH7DguQo8qCnD6-TH3H
-<h3>JKit de piesas </h3>https://www.electronicadiy.com/products/kit-4wd-plus
+<h3>Kit de piesas </h3>https://www.electronicadiy.com/products/kit-4wd-plus
 <h3>Board de desarrollo Mega 2560 R3 SMD - genérico </h3>https://laelectronica.com.gt/mega-2560-r3?search=arduino%20mega&description=true
 <h3>Sensor Detector de Colores TCS230 para Arduino </h3>https://oxdea.gt/product/sensor-detector-de-colores-tcs230/
 
