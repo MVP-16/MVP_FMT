@@ -1,0 +1,19 @@
+Motores (general)
+Primero debemos distinguir entre 3 tipos de motores: Servos, Paso a Paso y DC. Los motores AC pueden excluirse porque la batería proporciona corriente continua.
+
+Para nuestra aplicación, necesitamos un motor muy preciso que pueda superar las fuerzas de la dirección y, al mismo tiempo, mantener la precisión y la fiabilidad. Los servomotores son la opción principal para esto, ya que suelen utilizar sistemas de control de bucle cerrado que pueden supervisar la posición del motor y ajustarla según sea necesario para mantener una precisión de posicionamiento precisa. Aunque los motores paso a paso se utilizan a menudo en máquinas CNC o impresoras 3D debido a su buena combinación de precisión y resistencia, no se acercan a la precisión de un servomotor.
+
+Era importante que el motor de accionamiento fuera lo más potente y rápido posible. Una vez más, hay dos motores disponibles: el motor paso a paso y el motor de corriente continua. El motor paso a paso ofrece la ventaja de poder medir la distancia recorrida con precisión. Por el contrario, el motor de corriente continua no se detiene y, por lo tanto, garantiza que el automóvil esté inerte. Su ventaja radica en sus altas velocidades. Finalmente, optamos por un motor de corriente continua sin escobillas, ya que la precisión de la distancia recorrida no es importante para nosotros, ya que la composición del parkour también varía. Es por eso que necesitábamos altas velocidades y un motor potente.
+
+Servomotor
+Intentamos hacer que nuestro robot sea lo más pequeño posible para que nuestro radio de rotación sea pequeño. Esto nos permite maniobrar más rápido en las curvas y evitar mejor los bloqueos. Para la dirección utilizamos un servomotor que puede girar
+hacia la derecha y hacia la izquierda. Utilizamos la dirección Ackermann para trasladar la rotación del servomotor a las ruedas. Aunque la dirección Ackermann no es óptima, es suficiente para nuestros propósitos. El servomotor tiene un par de parada de aproximadamente
+ 
+, que despegamos a una distancia de unos 3 cm. Esto permite que el servo aplique una fuerza de aproximadamente
+Nuestro robot tiene una masa de no más de
+y el coeficiente de fricción no puede ser mayor que
+, lo que produce una fuerza de fricción de aproximadamente
+. Así nuestro robot sería capaz de superar esta situación.
+
+Motor DC sin escobillas
+Otro aspecto importante a tener en cuenta es el motor sin escobillas de corriente continua. Con el motor de corriente continua tenemos la posibilidad de avanzar y retroceder, lo que no excluye posibles soluciones a los problemas. Además, con este motor de accionamiento no tenemos ningún riesgo de conectarlo de forma incorrecta, ya que es independiente de este. Hemos realizado una relación de transmisión de aproximadamente 1 a 2 para la amplificación del par y a expensas de la velocidad.
