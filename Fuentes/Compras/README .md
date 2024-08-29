@@ -8,4 +8,4 @@
 <h3>Kit de piesas </h3>https://www.electronicadiy.com/products/kit-4wd-plus
 <h3>Board de desarrollo Mega 2560 R3 SMD - genérico </h3>https://laelectronica.com.gt/mega-2560-r3?search=arduino%20mega&description=true
 <h3>Sensor Detector de Colores TCS230 para Arduino </h3>https://oxdea.gt/product/sensor-detector-de-colores-tcs230/
-
+<h3>kit armable zx2 giro para eje frontal </h3> https://laelectronica.com.gt/kit-armable-zx2-de-giro-para-eje-frontal-de-carro-rc?srsltid=AfmBOorwzaJ6oH_tD17RhG3brx6fd3drE16Xw-y-vZ58pWniLOSmSgZq
