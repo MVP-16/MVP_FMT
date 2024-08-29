@@ -2,6 +2,7 @@
 <br>
 <h4>Arduino Mega</h4>
 Es usada para proyectos con necesidad de mayor cantidad de pines. Estás son sus características técnicas: Microcontrolador: ATMega2560. Velocidad de reloj: 16 MHz.
+![driver](https://github.com/SchroedingersBit/PfortGT-WRO/assets/93491768/011ca2d6-0b49-4f2f-8c29-943fe6d20fa5)
 
 <h4>Puente H</h4>
 El puente H para motores monofásicos utiliza cuatro transistores para controlar la dirección de la corriente que circula por el motor. Para que el motor gire hacia delante o hacia atrás, sólo se pueden encender dos transistores a la vez.
@@ -35,4 +36,5 @@ Se utilizan para construir enlaces de interconexión y permitir la conectividad 
 <h4>Baterias </h4>
 El término batería se refiere a un almacenador de energía de carácter electroquímico, que reúne y descarga energía gracias a reacciones químicas reversibles que facilitan la carga de un equipo por medio de fuentes eléctricas.
 
-<h4>Br</h4>
+<h4>Broche de baterias </h4>
+Porta batería de broche que te permite conectar la pila cuadrada de 9 V. Se usa principalmente en tablillas de conexión (Protoboard) o para alimentar cualquier prototipo de circuitos electrónicos que cumpla con las especificaciones abajo mencionadas.
