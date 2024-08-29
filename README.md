@@ -1,6 +1,6 @@
 # MVP_FTR Competencia Nacional 2024
 <h1>Introducción</h1>
-<h6>Este es el repositorio de GitHub del vehículo de conducción autónoma del equipo MVP de  Guatemala para la competencia en  WRO Future Engineers 2024 en Guatemala . En este repositorio, analizamos nuestro proceso de planificación y construcción de nuestro vehículo. Describimos nuestros problemas e ideas a lo largo del camino y explicamos nuestros planes y programas de construcción.
+<h6>Este es el repositorio de GitHub  se tratara hacerca del vehículo de conducción autónoma del equipo MVP de  Guatemala para la competencia en  WRO Future Engineers 2024 en Guatemala . En este repositorio, analizamos nuestro proceso de planificación y construcción de nuestro vehículo. Describimos nuestros problemas e ideas a lo largo del camino y explicamos nuestros planes y programas de construcción.
 </h6>
 <br>
 Nuestro prototipo es un carro autónomo que por medio de un lenguaje de programación (CSS) en Arduino Uno  que se programa 
