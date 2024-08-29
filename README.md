@@ -24,7 +24,7 @@ En programación explicamos la parte importante de la codificación. Describimos
 <h1>Vehículo </h1>
 En la parte del vehículo se muestra en detalle cómo está construido nuestro automovil. Se muestran los componentes del automovil, cómo se ensamblan . En electrónica explicamos el cableado y comentamos la regulación de la fuente de alimentación para los motores y sensores. Además, comentamos los motores con los que está equipado el automovil . Además, se explican los sensores que utilizamos , sus características especiales y sus propósitos.
 
-<h1>Fotos<h1>
+<h1>Fotos</h1>
 En las imágenes hay fotos del coche desde diferentes ángulos así como nuestra foto de equipo.
 
 <h1>Vídeos </h1>
