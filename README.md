@@ -5,7 +5,7 @@
 <br>
 Nuestro prototipo es un carro autónomo que por medio de un lenguaje de programación (CSS) en Arduino Uno  que se programa.
 <h1>Descripción general</h1>
-Nuestro automovil  funciona con un Arduino Mega . Contiene un chasis  en el cual va ensamblado todo nuestro proyecto. La energía se suministra mediante cuatro batería recargable ,consta de tres sensores ultrasónicos, los cuales envia la información  que se esta  detectanto  es decir la distancia de las paredes este envia la información al  arduino y el responde  dependiendo el codigo de programacionla cual envia la información al automovil . 
+Nuestro automovil  funciona con un Arduino Mega . Contiene un chasis  en el cual va ensamblado todo nuestro proyecto. La energía se suministra mediante cuatro batería recargable ,consta de tres sensores ultrasónicos, los cuales envia la información  que se esta  detectanto  es decir la distancia de las paredes este envia la información al  arduino y el responde  dependiendo el codigo de programación el  cual envia la información al automovil . 
 <h1>Descripción</h1>
 con el sensor ultrasónico que detecta a cierta distancia y envía la señal al Arduino mega  y la información se transmite al eje frontal que hace que gire al a  la derecha haciendo así que evite los obstáculos que se encuentre .
 
