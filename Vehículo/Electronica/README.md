@@ -1,5 +1,4 @@
 <h1>Electrónica</h1>
-<br>
 <h4>Arduino Mega</h4>
 Es usada para proyectos con necesidad de mayor cantidad de pines. Estás son sus características técnicas: Microcontrolador: ATMega2560. Velocidad de reloj: 16 MHz.
 
@@ -14,6 +13,7 @@ Como su nombre lo indica, los sensores ultrasónicos miden la distancia mediante
 
 <h4>Servomotor</h4>
 Un servomotor es un servomecanismo de bucle cerrado que utiliza la retroalimentación de posición para controlar su velocidad de rotación y posición”. Así, un servomotor está diseñado para controlar el movimiento de su eje en cuanto a velocidad, aceleración, torque y posición.
+![Servo + Ultraschall](https://github.com/SchroedingersBit/PfortGT-WRO/assets/93491768/8122f87d-3152-4029-9389-b9e9dc073e89)
 
 <h4>Llantas DC</h4>
 Es un dispositivo que gira sobre su propio eje y se utiliza para transportar cargas de un lugar a otro y para realizar diversas tareas en varias maquinas.
