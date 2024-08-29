@@ -5,8 +5,10 @@
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img1.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
 </p>
 
-<p>Luego teníamos que pensar un tipo de mecanismo de dirección en la parte delantera para que esta diera el giro sin problema alguno, esta funciona por medio de un servomotor. En la siguiente imagen se muestra su estructura.</p>
+<p>Luego teníamos que pensar un tipo de mecanismo de dirección en la parte delantera para que esta diera el giro sin problema alguno, este funciona por medio de un servomotor el cual hace que gire de un angulo de 90 grados a 0 grados y visiversa  para poder esquivar y dar el giro. En la siguiente imagen se muestra su estructura.</p>
 
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img2.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
 </p>
+
+<br>
