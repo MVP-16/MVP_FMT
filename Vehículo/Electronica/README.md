@@ -2,7 +2,6 @@
 <br>
 <h4>Arduino Mega</h4>
 Es usada para proyectos con necesidad de mayor cantidad de pines. Estás son sus características técnicas: Microcontrolador: ATMega2560. Velocidad de reloj: 16 MHz.
-![driver](https://github.com/SchroedingersBit/PfortGT-WRO/assets/93491768/011ca2d6-0b49-4f2f-8c29-943fe6d20fa5)
 
 <h4>Puente H</h4>
 El puente H para motores monofásicos utiliza cuatro transistores para controlar la dirección de la corriente que circula por el motor. Para que el motor gire hacia delante o hacia atrás, sólo se pueden encender dos transistores a la vez.
