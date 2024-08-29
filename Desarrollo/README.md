@@ -12,3 +12,6 @@
 </p>
 
 <br>
+La estructura de nuestro eje frontal es muy eficiente ya que cuenta con  dos llantas de tamaño pequeño , dos bases de acrilico transparente , tornillos , tuercas, un servomotor y otros .
+
+<h1> </h1>
