@@ -14,4 +14,22 @@ Nuestro prototipo es un carrito que funciona a base programación la cual esta d
 <h6>En eldesarrollo brindamos informarcion generales de nuestro  vehículo de desarrollo con las ideas que tuvimos durante el proceso, los problemas que enfrentamos y cómo los solucionamos</h6>
 
 Se planifico el modelo  es decir el chasis ya que era necesario agregarle un eje de giro  lo más funcional posible ya que contamos con una medida limite para el 
+<br>
+<h1>Estructura</h1>
+Nuestro repositorio está dividido en varios subgrupos en los que se discute cada tema de enfoque.
+
+<h1>Programación</h1>
+En programación explicamos la parte importante de la codificación. Describimos y explicamos nuestra estructura, la decisión de utilizar C++ , así como nuestro Programa General real .
+
+<h1>Vehículo </h1>
+En la parte del vehículo se muestra en detalle cómo está construido nuestro automovil. Se muestran los componentes del automovil, cómo se ensamblan . En electrónica explicamos el cableado y comentamos la regulación de la fuente de alimentación para los motores y sensores. Además, comentamos los motores con los que está equipado el automovil . Además, se explican los sensores que utilizamos , sus características especiales y sus propósitos.
+
+<h1>Fotos<h1>
+En las imágenes hay fotos del coche desde diferentes ángulos así como nuestra foto de equipo.
+
+<h1>Vídeos </h1>
+En los videos de Youtube se e demuestra el rendimiento de nuestro vehículo en pistas.
+
+<h1>Fuentes</h1>
+En las fuentes documentamos nuestras fuentes de información , además, se almacenan todas nuestras compras .
 
