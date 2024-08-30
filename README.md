@@ -31,7 +31,7 @@ En las fuentes documentamos nuestras fuentes de información , además, se almac
 
 <br>
  <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img1.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
+  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/ftg.jpeg?raw=true alt="Ackermann Steering sketch" width="400" />
 </p>
 
 <br>
