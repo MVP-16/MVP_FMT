@@ -31,7 +31,7 @@ En las fuentes documentamos nuestras fuentes de información , además, se almac
 
 
 <br>
-<h1></h1>Fotografía Grupal</h1>
+<h1>Fotografía Grupal</h1>
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/ftg.jpeg?raw=true alt="Ackermann Steering sketch" width="300" />
 </p>
