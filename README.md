@@ -28,3 +28,14 @@ En los videos de Youtube se e demuestra el rendimiento de nuestro vehículo en p
 
 <h1>Fuentes</h1>
 En las fuentes documentamos nuestras fuentes de información , además, se almacenan todas nuestras compras .
+
+<br>
+ <p align="center">
+  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img1.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
+</p>
+
+<br>
+ <p align="center">
+  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img1.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
+</p>
+
