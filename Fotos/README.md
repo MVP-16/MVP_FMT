@@ -22,7 +22,7 @@ Aquí puedes encontrar fotos del vehículo completo desde diferentes perspectiva
 </p>
 <h2>Fotografía Lateral Izquierdo </h2>
 <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img1.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
+  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c2.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
 </p>
 <h2>Fotografía del equipo</h2>
 <p align="center">
