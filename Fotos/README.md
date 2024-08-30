@@ -4,7 +4,7 @@ Aquí puedes encontrar fotos del vehículo completo desde diferentes perspectiva
 <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c3.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
 </p>
-<h2>VFotografía Posterior </h2>
+<h2>Fotografía Posterior </h2>
 <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c1.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
 </p>
