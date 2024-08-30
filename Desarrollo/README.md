@@ -16,7 +16,7 @@ La estructura de nuestro eje frontal es muy eficiente ya que cuenta con  dos lla
  el radio de giro y la posibilidad de chocar con obstáculos.
 
  <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img2.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
+  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/e1.jpeg?raw=true" alt="Ackermann Steering sketch" width="600" />
 </p>
 
  <br>
