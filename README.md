@@ -39,6 +39,6 @@ En las fuentes documentamos nuestras fuentes de información , además, se almac
 <br>
 <h1>Fotografía del logotipo</h1>
  <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/logo.png?raw=true" width="400" />
+  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/logo.png?raw=true" width="300" />
 </p>
 
