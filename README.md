@@ -1,7 +1,7 @@
-# MVP_FTR Competencia Nacional 2024
+# MVP_FMT Final Mundial Turquia 2024
 
 <h1>Introducción</h1>
-Este es nuestro  repositorio de GitHub el cual es un  vehículo de conducción autónoma del <b>Equipo MVP </b> para la competencia en  WRO Future Engineers 2024 en Guatemala . En este repositorio, analizamos y mostramos  nuestro proceso de planificación y construcción de nuestro vehículo. Describimos nuestros problemas e ideas a lo largo del camino y explicamos nuestros planes y programas de construcción.
+Este es nuestro  repositorio de GitHub el cual es un  vehículo de conducción autónoma del <b>Equipo MVP </b> para la competencia en  WRO Future Engineers 2024 en Izmir Turquia . En este repositorio, analizamos y mostramos  nuestro proceso de planificación y construcción de nuestro vehículo. Describimos nuestros problemas e ideas a lo largo del camino y explicamos nuestros planes y programas de construcción.
 
 <h1>Descripción general</h1>
 Nuestro automóvil  funciona con un Arduino Mega . Contiene un chasis  en el cual va ensamblado todo nuestro proyecto. La energía se suministra mediante cuatro batería recargable ,consta de dos sensores ultrasónicos, los cuales envía la información  que se esta  detectanto  es decir la distancia de las paredes este envía la información al  arduino y el responde  dependiendo el código de programación como también a los sensores de el cual envía la información al automóvil . 
