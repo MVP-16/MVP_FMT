@@ -20,7 +20,7 @@ La estructura de nuestro eje frontal es muy eficiente ya que cuenta con  dos lla
 </p>
 
  <br>
-Con forme ibamos avanzando tuvimos  que ir agregando más componentes  como un sensor TCS 3200 con Lente perimetral, cambiar de un arduino uno a un Arduino Mega y un shield v2 por los por los pines de conexión ya que no eran suficientes para todos los componenetes , adémas de agregar más sensores sonicos  ya que en el giro no lograba detectar de manera instantanea las bases de la pista, en el proceso de pragramación fue bastante arduo , conforme se hiban agregando componentes y sensores se tenia que ir modificando y agregando lineas de codigo.</br>
+Con forme ibamos avanzando tuvimos  que ir agregando más componentes  como una Pixy2 Cam , cambiar de un arduino uno a un Arduino Mega y un shield v2 por los por los pines de conexión ya que no eran suficientes para todos los componenetes , adémas de agregar más sensores sonicos  ya que en el giro no lograba detectar de manera instantanea las bases de la pista, en el proceso de pragramación fue bastante arduo , conforme se hiban agregando componentes y sensores se tenia que ir modificando y agregando lineas de codigo.</br>
 <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c3.jpeg?raw=true" alt="Ackermann Steering sketch" width="300" />
 </p>
