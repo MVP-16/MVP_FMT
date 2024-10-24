@@ -8,4 +8,4 @@ https://laelectronica.com.gt/image/cache/catalog/Productos/M%C3%B3dulos/Sensores
 <h3>Pixy2 Cam </h3>
 Este sensor es necesario para los obstaculos como el conteo de vueltas  y la direccion del automovil .
 <br>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fhetpro-store.com%2FTUTORIALES%2Fsensor-de-color-tcs3200-con-arduino%2F&psig=AOvVaw3iy71I2iSZ89mDypJNh4Kq&ust=1725069627347000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiyk6TPm4gDFQAAAAAdAAAAABAE
+https://www.amazon.com/Charmed-Labs-Pixy2-Vision-Sensor/dp/B07D1CLYD2
