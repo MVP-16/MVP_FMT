@@ -1,4 +1,4 @@
-<h1>Desarrollo</h1>
+<h1>Development</h1>
 <p>The model of our vehicle was planned, that is, the chassis, since it had to be functional and it was necessary to add a turning axis that was as functional as possible, given that we have a limit measurement for it. The structure is as follows:</p>
 
  <p align="center">
