@@ -1,26 +1,26 @@
 <h1>Desarrollo</h1>
-<p>Se planificó el modelo  de nuestro vehículo , es decir, el chasis, ya que tenia que ser funcional y  era necesario agregarle un eje de giro lo más funcional posible, dado que contamos con una medida límite para él. La estructura es la siguiente:</p>
+<p>The model of our vehicle was planned, that is, the chassis, since it had to be functional and it was necessary to add a turning axis that was as functional as possible, given that we have a limit measurement for it. The structure is as follows:</p>
 
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img1.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
 
-<p>Luego teníamos que pensar un tipo de mecanismo de dirección en la parte delantera para que esta diera el giro sin problema alguno, este funciona por medio de un servomotor el cual hace que gire de un angulo de 90 grados a 0 grados y visiversa  para poder esquivar y dar el giro. En la siguiente imagen se muestra su estructura.</p>
+<p>Then we had to think of a type of steering mechanism at the front so that it could turn without any problem. This works through a servomotor which makes it turn from an angle of 90 degrees to 0 degrees and reverses to be able to dodge. and make the turn. The following image shows its structure.</p>
 
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img2.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
 
 <br>
-La estructura de nuestro eje frontal es muy eficiente ya que cuenta con  dos llantas de tamaño pequeño , tres  bases de acrilico transparente , tornillos , tuercas, un servomotor y otros componenetes,  los cuales emplean  el giro y movimiento de nuestro vehículo .
- el radio de giro y la posibilidad de chocar con obstáculos.
+The structure of our front axle is very efficient since it has two small tires, three transparent acrylic bases, screws, nuts, a servomotor and other components, which use the rotation and movement of our vehicle.
+ the turning radius and the possibility of colliding with obstacles.
 
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/e1.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
 
  <br>
-Con forme ibamos avanzando tuvimos  que ir agregando más componentes  como una Pixy2 Cam , cambiar de un arduino uno a un Arduino Mega y un shield v2 por los por los pines de conexión ya que no eran suficientes para todos los componenetes , adémas de agregar más sensores sonicos  ya que en el giro no lograba detectar de manera instantanea las bases de la pista, en el proceso de pragramación fue bastante arduo , conforme se hiban agregando componentes y sensores se tenia que ir modificando y agregando lineas de codigo.</br>
+As we progressed we had to add more components such as a Pixy2 Cam, change from an Arduino Uno to an Arduino Mega and a shield v2 for the connection pins since they were not enough for all the components, in addition to adding more sensors sonics since in the turn it was not able to instantly detect the bases of the track, the programming process was quite arduous, as components and sensors were added, lines of code had to be modified and added.</br>
 <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c3.jpeg?raw=true" alt="Ackermann Steering sketch" width="300" />
 </p>
