@@ -4,8 +4,8 @@
 <h3>Jumpers </h3>https://www.steren.com.gt/juego-de-80-cables-de-15-cm-tipo-dupont.html?srsltid=AfmBOoosMYfSCbuDLY1CrT1WfekiqTeBBJfNRIAU4ilPTx2JPj62k8DH
 <h3>Sensor shield V2.0 para MEGA </h3>https://laelectronica.com.gt/sensor-shield-v20-para-mega?srsltid=AfmBOoqMXu8WWeBAs1XZ9GmJYMOOmb2rS1754EXPPM84D_wMu9bYd8qH
 <h3>Broche para batería de 9V con plug DC</h3>https://laelectronica.com.gt/conector-para-bateria-de-9v-con-plug-dc
-<h3>Sensor de color TCS230 TCS3200, con lente perimetral</h3>https://laelectronica.com.gt/sensor-de-color-tcs230-tcs3200-con-lente-perimetral?srsltid=AfmBOoppEpZNGzDNG20yP9QDE6hEj1J98m_0TtH7DguQo8qCnD6-TH3H
+<h3>Pixy2 Cam </h3>
+https://www.amazon.com/Charmed-Labs-Pixy2-Vision-Sensor/dp/B07D1CLYD2
 <h3>Kit de piesas </h3>https://www.electronicadiy.com/products/kit-4wd-plus
 <h3>Board de desarrollo Mega 2560 R3 SMD </h3>https://laelectronica.com.gt/mega-2560-r3?search=arduino%20mega&description=true
-<h3>Sensor Detector de Colores TCS230 para Arduino </h3>https://oxdea.gt/product/sensor-detector-de-colores-tcs230/
 <h3>Kit armable zx2 giro para eje frontal </h3> https://laelectronica.com.gt/kit-armable-zx2-de-giro-para-eje-frontal-de-carro-rc?srsltid=AfmBOorwzaJ6oH_tD17RhG3brx6fd3drE16Xw-y-vZ58pWniLOSmSgZq
