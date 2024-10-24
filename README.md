@@ -1,43 +1,42 @@
 # MVP_FMT Final Mundial Turquia 2024
 
-<h1>Introducción</h1>
-Este es nuestro  repositorio de GitHub el cual es un  vehículo de conducción autónoma del <b>Equipo MVP </b> para la competencia en  WRO Future Engineers 2024 en Izmir Turquia . En este repositorio, analizamos y mostramos  nuestro proceso de planificación y construcción de nuestro vehículo. Describimos nuestros problemas e ideas a lo largo del camino y explicamos nuestros planes y programas de construcción.
+<h1>Introduction</h1>
+This is our GitHub repository which is an autonomous driving vehicle from <b>Team MVP </b> for the competition at WRO Future Engineers 2024 in Izmir Turkey. In this repository, we analyze and show our process of planning and building our vehicle. We describe our problems and ideas along the way and explain our construction plans and schedules.
 
-<h1>Descripción general</h1>
-Nuestro automóvil  funciona con un Arduino Mega . Contiene un chasis  en el cual va ensamblado todo nuestro proyecto. La energía se suministra mediante cuatro baterías recargable ,consta de 3 sensores ultrasónicos, los cuales envía la información  que se esta  detectanto  es decir la distancia de las paredes este envía la información al  arduino y el responde  dependiendo el código de programación como también a los sensores de el cual envía la información al automóvil . 
-<h1>Descripción</h1>
-Nuestro prototipo es un carrito que funciona a base programación la cual esta diseñada para que el vehículo no se estrelle y esquive obstáculos esto por medio de un sensor ultrasónico que va midiendo la distancia por medio de ondas de sonido qué salen por el thrig y entran por el echo dándole una señal al Arduino mega para que le mande al servomotor que al detectar la distancia programada gire hacia la derecha así asiendo que el sensor sónico tome una lectura nuevamente que si es adecuada a la programada va hacer que el tren delantero o servomotor gire  hacia la derecha. Este también consta con una Pixy2 cam que al detectar un color va ser una acción dada en el lineamiento de la competencia.
+<h1>General Description</h1>
+Our car is powered by an Arduino Mega. It contains a chassis in which our entire project is assembled. The energy is supplied by four rechargeable batteries, it consists of 3 ultrasonic sensors, which send the information that is being detected, that is, the distance from the walls, it sends the information to the Arduino and it responds depending on the programming code as well as to the sensors. from which it sends the information to the car.
 
-<h1>Desarrollo</h1>
-En el desarrollo brindamos informarción generales de nuestro  vehículo de desarrollo con las ideas que tuvimos durante el proceso, los problemas que enfrentamos y cómo los solucionamos.
+<h1>Description</h1>
+Our prototype is a cart that works based on programming which is designed so that the vehicle does not crash and avoids obstacles through an ultrasonic sensor that measures the distance through sound waves that come out through the thrig and enter through the echo giving a signal to the Arduino mega to command the servomotor to detect the programmed distance to turn to the right, thus allowing the sonic sensor to take a reading again which, if it is appropriate to the programmed one, will cause the front axle or servomotor to rotate. towards the right. This also has a Pixy2 cam that when detecting a color will be an action given in the competition guidelines.
 
-<h1>Estructura</h1>
-Nuestro repositorio está dividido en varios subgrupos en los que se discute cada tema .
+<h1>Development/h1>
+In development we provide general information about our development vehicle with the ideas we had during the process, the problems we faced and how we solved them.
+ 
+<h1>Structure</h1>
+Shows the structure of the vehicle and its tools.
+<h1>Programming</h1>
+In programming we explain the important part of coding. We describe and explain our structure, the decision to use C++, as well as our actual General program.
+<h1>Vehicle </h1>
+The vehicle part shows our car, the components of the car, how they are assembled. In electronics we explain the wiring and power supplies for the motors and sensors as well as the motors with which the car is equipped. In addition, the sensors we use, their special characteristics and their purposes are explained.
 
-<h1>Programación</h1>
-En programación explicamos la parte importante de la codificación. Describimos y explicamos nuestra estructura, la decisión de utilizar C++ , así como nuestro programa General real .
+<h1>Photos</h1>
+In the images there are photos of the car from different angles as well as our team photo.
 
-<h1>Vehículo </h1>
-En la parte del vehículo se muestra nuestro automóvil , los componentes del automovil, cómo se ensamblan . En electrónica explicamos el cableado y las fuente de alimentación para los motores y sensores  como tambien   los motores con los que está equipado el automovil . Además, se explican los sensores que utilizamos , sus características especiales y sus propósitos.
+<h1>Videos </h1>
+The YouTube videos demonstrate the performance of our vehicle on the track.
 
-<h1>Fotos</h1>
-En las imágenes hay fotos del automóvil desde diferentes ángulos así como nuestra foto de equipo.
-
-<h1>Vídeos </h1>
-En los videos de Youtube se demuestra el rendimiento de nuestro vehículo en pista.
-
-<h1>Fuentes</h1>
-En las fuentes documentamos nuestras fuentes de información , además, se almacenan todas nuestras compras .
+<h1>Sources</h1>
+In the sources we document our sources of information, in addition, all our purchases are stored.
 
 
 <br>
-<h1>Fotografía Grupal</h1>
+<h1>Group photography</h1>
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/ftg.jpeg?raw=true alt="Ackermann Steering sketch" width="300" />
 </p>
 
 <br>
-<h1>Fotografía del logotipo</h1>
+<h1>Logo photography</h1>
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/logo.png?raw=true" width="300" />
 </p>
