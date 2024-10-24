@@ -21,14 +21,8 @@ Es un dispositivo que gira sobre su propio eje y se utiliza para transportar car
 <h4>Motoreductores  amarillos</h4>
 El Motorreductor Amarillo para Carrito y compatible para proyectos con Arduino es un dispositivo electromecánico que te permite reducir la velocidad a un alto par. Excelente tracción sobre una gran variedad de superficies estos motorreductores con eje dual están disponibles con una caja reductora de 48:1 y 120:1.
 
-<h4>Sensor de color  tcs 3200 con lente perimetral</h4>
-Este sensor TCS3200 es un detector de color completo. Incluye un chip sensor TAOS TCS3200 RGB y 4 LED`s blancos de iluminación. 
-El sensor de color con integrado TCS230 puede filtrar los datos RGB de la fuente de luz y la convierten en una onda cuadrada (50% ciclo de trabajo) con una frecuencia directamente proporcional a la intensidad de la luz de radiación.
-
-<h4>Sensor de color tcs 3200</h4>
-Este sensor TCS3200 es un detector de color completo. Incluye un chip sensor TAOS TCS3200 RGB y 4 LED`s blancos de iluminación. 
-El sensor de color con integrado TCS230 puede filtrar los datos RGB de la fuente de luz y la convierten en una onda cuadrada (50% ciclo de trabajo) con una frecuencia directamente proporcional a la intensidad de la luz de radiación.
-
+<h4>Pixy2 Cam </h4>
+El Pixy 2.0 es un sensor de imagen con un potente procesador que se puede programar para enviar sólo la información que está buscando, exporta información por puerto serial UART, SPI, I2C, digital out, o analógicas. El Pixy 2.0 también se puede utilizar para identificar tono y saturación de imágenes.
 <h4>Jumpers</h4>
 Se utilizan para construir enlaces de interconexión y permitir la conectividad a alta velocidad y ancho de banda, así que son cables con conectores (SC, LC, FC o el que tu red requiera) en los dos extremos.
 
