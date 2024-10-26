@@ -16,7 +16,7 @@ The structure of our front axle is very efficient since it has two small tires, 
  the turning radius and the possibility of colliding with obstacles.
 
  <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/e1.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
+  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a1%20(2).jpeg?raw=true alt="Ackermann Steering sketch" width="400" />
 </p>
 
  <br>
