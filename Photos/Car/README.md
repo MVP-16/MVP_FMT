@@ -1,30 +1,28 @@
-<h1>Fotografías del vehículo y del equipo</h1>
-Aquí puedes encontrar fotos del vehículo completo desde diferentes perspectivas como angulos y la foto de nuestro equipo.
-<h2>Fotografía Frontal</h2>
+<h1>Photographs of the vehicle and equipment</h1>
+Here you can find photos of the complete vehicle from different perspectives such as angles and the photo of our team.
+<h2>Front Photography</h2>
 <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c3.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
-<h2>Fotografía Posterior </h2>
+<h2>Back 
+Photography </h2>
 <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c5.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
-<h2>Fotografía Superior </h2>
-<p align="center">
+<h2>Top Photography </h2><p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c6.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
-<h2>Fotografía Inferior </h2>
+<h2>Bottom Photography</h2>
+
 <p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c1.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
-<h2>Fotografía Lateral Derecho</h2>
-<p align="center">
+<h2>Right Side Photography</h2><p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c4.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
-<h2>Fotografía Lateral Izquierdo </h2>
-<p align="center">
+<h2>Left Side Photography </h2><p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c2.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
-<h2>Fotografía del equipo</h2>
-<p align="center">
+<h2>Team photo</h2><p align="center">
   <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c3.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
