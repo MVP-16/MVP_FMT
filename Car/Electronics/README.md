@@ -1,33 +1,31 @@
 <h1>Electrónica</h1>
 <h4>Arduino Mega</h4>
-Es usada para proyectos con necesidad de mayor cantidad de pines. Estás son sus características técnicas: Microcontrolador: ATMega2560. Velocidad de reloj: 16 MHz.
+It is used for projects that require a greater number of pins. These are its technical characteristics: Microcontroller: ATMega2560. Clock speed: 16 MHz.
 
-<h4>Puente H</h4>
-El puente H para motores monofásicos utiliza cuatro transistores para controlar la dirección de la corriente que circula por el motor. Para que el motor gire hacia delante o hacia atrás, sólo se pueden encender dos transistores a la vez.
+<h4>H Bridge</h4>
+The H-bridge for single-phase motors uses four transistors to control the direction of current flowing through the motor. For the motor to rotate forward or reverse, only two transistors can be turned on at a time.
 
  <h4>Shield V2</h4>
-El Arduino Sensor Shield V2.0 permite la conección directa a una placa Arduino Mega y facilitar la conexión de diferentes módulos, como sensores, relés, servos, botones, potenciómetros y más.
+The Arduino Sensor Shield V2.0 allows direct connection to an Arduino Mega board and facilitates the connection of different modules, such as sensors, relays, servos, buttons, potentiometers and more.
 
-<h4>Sensor ultrasónico</h4>
-Como su nombre lo indica, los sensores ultrasónicos miden la distancia mediante el uso de ondas ultrasónicas. El cabezal emite una onda ultrasónica y recibe la onda reflejada que retorna desde el objeto. Los sensores ultrasónicos miden la distancia al objeto contando el tiempo entre la emisión y la recepción.
-
+<h4>Ultrasonic sensor</h4>
+As the name implies, ultrasonic sensors measure distance by using ultrasonic waves. The head emits an ultrasonic wave and receives the reflected wave returning from the object. Ultrasonic sensors measure the distance to the object by counting the time between emission and reception.
 <h4>Servomotor</h4>
-Un servomotor es un servomecanismo de bucle cerrado que utiliza la retroalimentación de posición para controlar su velocidad de rotación y posición”. Así, un servomotor está diseñado para controlar el movimiento de su eje en cuanto a velocidad, aceleración, torque y posición.
+A servomotor is a closed-loop servomechanism that uses position feedback to control its rotational speed and position.” Thus, a servomotor is designed to control the movement of its axis in terms of speed, acceleration, torque and position.
 
+<h4>DC wheels</h4>
+It is a device that rotates on its own axis and is used to transport loads from one place to another and to perform various tasks on various machines.
 
-<h4>Llantas DC</h4>
-Es un dispositivo que gira sobre su propio eje y se utiliza para transportar cargas de un lugar a otro y para realizar diversas tareas en varias maquinas.
-
-<h4>Motoreductores  amarillos</h4>
-El Motorreductor Amarillo para Carrito y compatible para proyectos con Arduino es un dispositivo electromecánico que te permite reducir la velocidad a un alto par. Excelente tracción sobre una gran variedad de superficies estos motorreductores con eje dual están disponibles con una caja reductora de 48:1 y 120:1.
+<h4>Yellow gear motors</h4>
+The Yellow Gear Motor for Cart and compatible for Arduino projects is an electromechanical device that allows you to reduce the speed at a high torque. Excellent traction on a wide variety of surfaces, these dual-axis gearmotors are available with a 48:1 and 120:1 gearbox.
 
 <h4>Pixy2 Cam </h4>
-El Pixy 2.0 es un sensor de imagen con un potente procesador que se puede programar para enviar sólo la información que está buscando, exporta información por puerto serial UART, SPI, I2C, digital out, o analógicas. El Pixy 2.0 también se puede utilizar para identificar tono y saturación de imágenes.
+The Pixy 2.0 is an image sensor with a powerful processor that can be programmed to send only the information you are looking for, exporting information via UART, SPI, I2C, digital out, or analog serial port. The Pixy 2.0 can also be used to identify hue and saturation of images.
 <h4>Jumpers</h4>
-Se utilizan para construir enlaces de interconexión y permitir la conectividad a alta velocidad y ancho de banda, así que son cables con conectores (SC, LC, FC o el que tu red requiera) en los dos extremos.
+They are used to build interconnection links and allow connectivity at high speed and bandwidth, so they are cables with connectors (SC, LC, FC or whatever your network requires) at both ends.
 
-<h4>Baterias </h4>
-El término batería se refiere a un almacenador de energía de carácter electroquímico, que reúne y descarga energía gracias a reacciones químicas reversibles que facilitan la carga de un equipo por medio de fuentes eléctricas.
+<h4>Batteries </h4>
+The term battery refers to an electrochemical energy store, which gathers and discharges energy thanks to reversible chemical reactions that facilitate the charging of equipment through electrical sources.
 
-<h4>Broche de baterias </h4>
-Porta batería de broche que te permite conectar la pila cuadrada de 9 V. Se usa principalmente en tablillas de conexión (Protoboard) o para alimentar cualquier prototipo de circuitos electrónicos que cumpla con las especificaciones abajo mencionadas.
+<h4>Battery clip </h4>
+Clip-on battery holder that allows you to connect the 9 V square battery. It is mainly used in connection boards (Protoboard) or to power any electronic circuit prototype that meets the specifications mentioned below.
