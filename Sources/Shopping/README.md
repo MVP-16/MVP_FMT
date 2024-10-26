@@ -7,5 +7,5 @@
 <h3>Pixy2 Cam </h3>
 https://www.amazon.com/Charmed-Labs-Pixy2-Vision-Sensor/dp/B07D1CLYD2
 <h3>Parts kit </h3>https://www.electronicadiy.com/products/kit-4wd-plus
-<h3>Board de desarrollo Mega 2560 R3 SMD </h3>https://laelectronica.com.gt/mega-2560-r3?search=arduino%20mega&description=true
+<h3>Mega 2560 R3 SMD development board </h3>https://laelectronica.com.gt/mega-2560-r3?search=arduino%20mega&description=true
 <h3>Zx2 twist assembly kit for front axle </h3>https://laelectronica.com.gt/kit-armable-zx2-de-giro-para-eje-frontal-de-carro-rc?srsltid=AfmBOorwzaJ6oH_tD17RhG3brx6fd3drE16Xw-y-vZ58pWniLOSmSgZq
