@@ -1,4 +1,4 @@
-<h1>Electrónica</h1>
+<h1>Electronics</h1>
 <h4>Arduino Mega</h4>
 It is used for projects that require a greater number of pins. These are its technical characteristics: Microcontroller: ATMega2560. Clock speed: 16 MHz.
 
