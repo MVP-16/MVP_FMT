@@ -8,7 +8,7 @@
 <p>Then we had to think of a type of steering mechanism at the front so that it could turn without any problem. This works through a servomotor which makes it turn from an angle of 90 degrees to 0 degrees and reverses to be able to dodge. and make the turn. The following image shows its structure.</p>
 
  <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/img2.jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
+  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a4%20(2).jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
 </p>
 
 <br>
