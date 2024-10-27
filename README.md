@@ -16,7 +16,7 @@ In development we provide general information about our development vehicle with
 Shows the structure of the vehicle and its tools.
 <h1>Programming</h1>
 In programming we explain the important part of coding. We describe and explain our structure, the decision to use C++, as well as our actual General program.
-<h1>Vehicle </h1>
+<h1>Car</h1>
 The vehicle part shows our car, the components of the car, how they are assembled. In electronics we explain the wiring and power supplies for the motors and sensors as well as the motors with which the car is equipped. In addition, the sensors we use, their special characteristics and their purposes are explained.
 
 <h1>Photos</h1>
