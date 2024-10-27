@@ -22,7 +22,7 @@ The structure of our front axle is very efficient since it has two small tires, 
  <br>
 As we progressed we had to add more components such as a Pixy2 Cam, change from an Arduino Uno to an Arduino Mega and a shield v2 for the connection pins since they were not enough for all the components, in addition to adding more sensors sonics since in the turn it was not able to instantly detect the bases of the track, the programming process was quite arduous, as components and sensors were added, lines of code had to be modified and added.</br>
 <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FTR/blob/main/Fotos/c3.jpeg?raw=true" alt="Ackermann Steering sketch" width="300" />
+  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a6%20(2).jpeg?raw=true" alt="Ackermann Steering sketch" width="300" />
 </p>
 
 
