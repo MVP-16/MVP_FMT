@@ -15,7 +15,7 @@ Photography </h2>
 <h2>Bottom Photography</h2>
 
 <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a12%20(2).jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
+  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a13%20(2).jpeg?raw=true alt="Ackermann Steering sketch" width="400" />
 </p>
 <h2>Right Side Photography</h2><p align="center">
   <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a8%20(2).jpeg?raw=true" alt="Ackermann Steering sketch" width="400" />
