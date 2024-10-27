@@ -32,7 +32,7 @@ In the sources we document our sources of information, in addition, all our purc
 <br>
 <h1>Group photography</h1>
  <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a14%20(2).jpeg?raw=true" alt="Ackermann Steering sketch" width="300" />
+  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a14%20(2).jpeg?raw=true" alt="Ackermann Steering sketch" width="200" />
 </p>
 
 <br>
