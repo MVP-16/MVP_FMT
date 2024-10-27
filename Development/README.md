@@ -14,7 +14,7 @@
 <br>
 The structure of our front axle is very efficient since it has two small tires, three transparent acrylic bases, screws, nuts, a servomotor and other components, which use the rotation and movement of our vehicle.
  the turning radius and the possibility of colliding with obstacles.
-
+<br>
  <p align="center">
   <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a1%20(2).jpeg?raw=true alt="Ackermann Steering sketch" width="400" />
 </p>
