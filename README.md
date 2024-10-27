@@ -9,7 +9,8 @@ Our car is powered by an Arduino Mega. It contains a chassis in which our entire
 <h1>Description</h1>
 Our prototype is a cart that works based on programming which is designed so that the vehicle does not crash and avoids obstacles through an ultrasonic sensor that measures the distance through sound waves that come out through the thrig and enter through the echo giving a signal to the Arduino mega to command the servomotor to detect the programmed distance to turn to the right, thus allowing the sonic sensor to take a reading again which, if it is appropriate to the programmed one, will cause the front axle or servomotor to rotate. towards the right. This also has a Pixy2 cam that when detecting a color will be an action given in the competition guidelines.
 
-
+<h1>Development</h1>
+In development we provide general information about our development vehicle with the ideas we had during the process, the problems we faced and how we solved them.
  
 <h1>Structure</h1>
 Shows the structure of the vehicle and its tools.
