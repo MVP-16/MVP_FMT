@@ -41,3 +41,8 @@ In the sources we document our sources of information, in addition, all our purc
   <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a5.png?raw=true" width="300" />
 </p>
 
+<h2>Car Photography</h2>
+<p align="center">
+  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/Car/frontal.jpeg?raw=true" alt="Ackermann Steering sketch" width="250" />
+</p>
+
