@@ -2,7 +2,7 @@
 Here you can find photos of the complete vehicle from different perspectives such as angles and the photo of our team.
 <h2>Front Photography</h2>
 <p align="center">
-  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/Car/delant.jpeg?raw=true" alt="Ackermann Steering sketch" width="250" />
+  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/Car/frontal.jpeg?raw=true" alt="Ackermann Steering sketch" width="250" />
 </p>
 <h2>Back 
 Photography </h2>
