@@ -10,7 +10,8 @@ Photography </h2>
   <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/Car/abj.jpeg?raw=true" alt="Ackermann Steering sketch" width="250" />
 </p>
 <h2>Top Photography </h2><p align="center">
-  <img src="https://github.com/MVP-16/MVP_FMT/blob/main/Photos/a7%20(2).jpeg?raw=true" alt="Ackermann Steering sketch" width="250" />
+  <img src="![image](https://github.com/user-attachments/assets/62ae98c9-7a81-48d7-8750-7a193a4db1c4)
+" alt="Ackermann Steering sketch" width="250" />
 </p>
 <h2>Bottom Photography</h2>
 
